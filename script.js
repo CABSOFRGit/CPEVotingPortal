@@ -1,54 +1,78 @@
-function showScreen(id) {
-  document.querySelectorAll('.screen').forEach(el => el.style.display = "none");
-  document.getElementById(id).style.display = "block";
-}
-
-function renderCourses() {
-  const list = document.getElementById('courseList');
-  list.innerHTML = '';
-  courses.forEach((course, index) => {
-    const btn = document.createElement('button');
-    btn.textContent = `${course.code} - ${course.title}`;
-    btn.onclick = () => selectCourse(index);
-    list.appendChild(btn);
-    list.appendChild(document.createElement('br'));
+function sanitizeInput(str) {
+  return str.replace(/[&<>"']/g, function(m) {
+    return ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#39;'
+    })[m];
   });
 }
 
-let selectedCourse = null;
+function showCourseDetails(course) {
+  document.getElementById("screen1").style.display = "none";
+  document.getElementById("screen2").style.display = "block";
+  const fullName = sanitizeInput(document.getElementById("firstName").value + " " + document.getElementById("lastName").value);
+  document.getElementById("userNameDisplay").textContent = fullName;
 
-function selectCourse(index) {
-  selectedCourse = courses[index];
-  const fullName = document.getElementById('firstName').value.trim() + " " + document.getElementById('lastName').value.trim();
-  document.getElementById('userNameDisplay').textContent = fullName;
-  document.getElementById('courseDetails').textContent = JSON.stringify(selectedCourse, null, 2);
-  showScreen('screen2');
+  document.getElementById("courseDetails").innerHTML = `
+Course Code: ${sanitizeInput(course["COURSE CODE"])}
+Title: ${sanitizeInput(course["CPE Title"])}
+Sponsor: ${sanitizeInput(course["Sponsor"])}
+Date: ${sanitizeInput(course["CPE Date"])}
+Description: ${sanitizeInput(course["Description of Activity"])}
+Link: <a href="${sanitizeInput(course["Link"])}" target="_blank">${sanitizeInput(course["Link"])}</a>
+Hours: ${sanitizeInput(course["Hours"])}
+Topics: ${sanitizeInput(course["DoDI Criteria Topics"])}
+  `;
+  window.currentCourse = course;
 }
 
 function submitVote() {
-  const firstName = document.getElementById('firstName').value.trim();
-  const lastName = document.getElementById('lastName').value.trim();
-  const vote = document.getElementById('voteSelect').value;
-  const comment = document.getElementById('comments').value.trim();
+  const firstName = sanitizeInput(document.getElementById("firstName").value);
+  const lastName = sanitizeInput(document.getElementById("lastName").value);
+  const vote = document.getElementById("voteSelect").value;
+  const comments = sanitizeInput(document.getElementById("comments").value);
+  const course = window.currentCourse;
 
-  if (!firstName || !lastName || !vote || !selectedCourse) {
-    alert("Please fill out all fields before submitting.");
+  if (!firstName || !lastName || !vote || !course) {
+    alert("Please fill out all required fields.");
     return;
   }
 
-  const item = {
-    Title: `${firstName} ${lastName}`,
-    FirstName: firstName,
-    LastName: lastName,
-    CourseCode: selectedCourse.code,
-    CourseTitle: selectedCourse.title,
-    Vote: vote,
-    Comment: comment
-  };
+  // Example of where to place SharePoint submission
+  // fetch("https://yoursharepointsite/_api/web/lists/getbytitle('Votes')/items", {
+  //   method: "POST",
+  //   headers: {
+  //     "Accept": "application/json;odata=verbose",
+  //     "Content-Type": "application/json;odata=verbose",
+  //     "X-RequestDigest": document.getElementById("__REQUESTDIGEST").value
+  //   },
+  //   body: JSON.stringify({
+  //     Title: "Vote",
+  //     FirstName: firstName,
+  //     LastName: lastName,
+  //     CourseCode: course["COURSE CODE"],
+  //     Vote: vote,
+  //     Comments: comments
+  //   })
+  // }).then(response => response.json()).then(data => {
+  //   console.log("Success:", data);
+  // }).catch(error => {
+  //   console.error("Error submitting to SharePoint:", error);
+  // });
 
-  alert("This is where you'd send the vote to SharePoint via REST API. Vote: " + JSON.stringify(item, null, 2));
-
-  showScreen('screen3');
+  document.getElementById("screen2").style.display = "none";
+  document.getElementById("screen3").style.display = "block";
 }
 
-renderCourses();
+window.onload = function() {
+  const container = document.getElementById("courseList");
+  courses.forEach(course => {
+    const btn = document.createElement("button");
+    btn.textContent = course["CPE Title"];
+    btn.onclick = () => showCourseDetails(course);
+    container.appendChild(btn);
+  });
+};

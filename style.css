@@ -1,4 +1,18 @@
-body { font-family: Arial, sans-serif; padding: 1em; }
-.screen { display: none; }
-.screen.active, #screen1 { display: block; }
-button { margin-top: 1em; padding: 0.5em 1em; }
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.screen {
+  margin-top: 20px;
+}
+button {
+  margin-top: 10px;
+}
+#courseDetails {
+  white-space: pre-wrap;
+  max-height: 400px;
+  overflow-y: auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}

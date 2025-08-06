@@ -2,10 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>CPE Voting Portal</title>
-  <link rel="stylesheet" href="./style.css" />
-  <script src="./courses.js"></script>
-  <script src="./script.js" defer></script>
+  <title>Course Voting Portal</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <h1>Course Voting Portal</h1>
@@ -21,11 +19,11 @@
     <pre id="courseDetails"></pre>
     <h4>Vote:</h4>
     <label>Vote: <select id="voteSelect">
-      <option value="">Select</option>
-      <option value="Referred">Referred</option>
-      <option value="Non-Referred">Non-Referred</option>
-      <option value="Need More Information">Need More Information</option>
-    </select></label><br />
+<option value="">Select</option>
+<option value="Referred">Referred</option>
+<option value="Non-Referred">Non-Referred</option>
+<option value="Need More Information">Need More Information</option>
+</select></label><br />
     <label>Comments:<br /><textarea id="comments" rows="4"></textarea></label><br />
     <button onclick="submitVote()">Submit Vote</button>
   </div>
@@ -34,5 +32,7 @@
     <p>Your vote has been recorded.</p>
     <button onclick="location.reload()">Close</button>
   </div>
+  <script src="courses.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
