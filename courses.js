@@ -8,7 +8,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "The modern day \"suicide hotline\" has its roots in both the field of suicidology and the grass-roots movement to de-stigmatize and help persons in a suicidal crisis. Since 1960, when several major hotlines began, hotlines have evolved from poorly funded \"do-gooder\" agencies using lay volunteers, to sophisticated technological service centers, perhaps still using volunteers, but with more guidance and standards from clinical and research communities. Once-held tenets in anonymity and the right of caller self-agency has morphed into the active intervention approach we have at most hotlines. The process of providing crisis intervention counseling has also changed, with more programs opting for less personal, technologically-backed approaches, and efforts to refer callers rather than \"talk them through\" the crisis. As a long-time A.A.S. Accreditation Site Examiner, I will share both a brief history of the suicide hotline, along with my personal observations of having worked in the field since 1980.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "C",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -21,7 +21,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "In December 2021, the U.S. Surgeon General declared a youth mental health crisis. Suicide is the second leading cause of death among youth 10-24 years. To respond to this public health crisis, a large urban children\u2019s hospital system applied a public health framework to develop workgroups to address this complex issue, focused on research, training, workforce, family support, community engagement, and Zero Suicide. From November 2021 through March 2023, these committees assessed the problem; identified and developed resources and tools; and reflected upon lessons learned. These efforts are now integrated into the broader behavioral health response across the system.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -34,7 +34,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "This engaging and dynamic presentation explores the vital role of youth voice in suicide prevention projects and programs. By incorporating their lived experience, we demonstrate how youth-led focus groups can enhance the content, increase engagement of services, and provide insightful recommendations for program improvement. Attendees will walk away from this session with tools to initiate and conduct youth focus groups that transform youth voice into strategies, policies, and practices that improve suicide prevention efforts and save lives.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -47,7 +47,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "This symposium puts a spotlight on imminent risk data within the 988 Suicide & Crisis Lifeline network via the exploration of three critical topics. Topic 1 will provide a comprehensive review of 988 Lifeline imminent risk data, delving into various data sources and limitations. The presentation also will uncover the intricacies of interpreting imminent risk data and explore the origins of the 'less than 2%' figure for emergency service dispatch. Topic 2 will scrutinize the scientific literature, dissecting studies that focus on imminent risk calls within the Lifeline network. The presentation also will share insights into varying counselor approaches and key findings, while identifying future research needs. Topic 3 will shift focus to strategies for elevating the quality and reliability of imminent risk data within the 988 Lifeline. The presentation also will explore technological innovations at Vibrant Emotional Health that promise transformative improvements in data collection and analysis.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -60,7 +60,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "The presentation covers the journey of the First Responder Suicide Prevention Task Force from its inception to its current status. The goals of the task force will be presented with the strategies that have been successful based on feedback the task force has received from first responders. Participants will leave with strategies they will be able to adapt and implement within their own communities.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -73,7 +73,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Our mission at Athens State University is to reach out to our campus and beyond, in order to research, change and educate students, faculty, staff, and community about suicide. We seek to ensure that all of the people on our campus have the knowledge and the ability to assist someone who may be potentially suicidal. We wish to give a voice to those who feel too ashamed or powerless to seek help by letting them know someone is available to help. Education goes a long way to reduce the stigma of suicide.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -86,7 +86,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-05T00:00:00",
     "Description of Activity": "Joyce Chu, PhD Psychologist, Professor/Director Palo Alto University, Communtiy Connections; Christopher Weaver, PhD Pscyhologist, Professor Palo Alto University",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "4",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -99,7 +99,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Access to lethal means, including medication and firearms, is a determining factor in the outcome for suicidal individuals. This course addresses relevant data on lethal means, and provides participants with crucial skills for how to ask about access to lethal methods, and engage with clients and their support system to reduce access until they are no longer at elevated risk.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -112,7 +112,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Collaboration might not always be easy, but the benefits far outweigh the cost. This interactive session draws on the experiences of the Suicide Prevention Resource Center\u2019s Tribal Initiatives, Best Practices Registry, Belonging Initiatives, and Lived Experience Initiatives teams. The session showcases specific programs and examples of cross-team collaborative projects and explains how our collaborative efforts have supported and enhanced our suicide prevention work. The presenters will demonstrate how organizations can use collaboration to implement best practices, center lived experience, and include traditional Tribal practices and wisdom while centering equity and belonging in suicide prevention efforts.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -125,7 +125,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "The Veteran Community is at increased risk for Suicide and often are not meaningfully connected to services/treatment. Lessor known, however, is that Active Military Members are also at increased risk. EMPACT-Suicide Prevention Center has partnered with the USAF to provide Suicide and Mental Health Awareness training to active service members. This successful collaboration exemplifies the power of civilian-military cooperation to increase awareness and reduce suicide. Through this partnership, nearly 500 service-members have been trained in ASIST or MHFA-Veteran. The Armed Services are part of our community, and as such, community behavioral health should seek out opportunities to help support them.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -138,7 +138,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "The Texas Suicide Prevention Collaborative and the Texas Veterans Commission (TVC) have created a community-centered effort to address suicide prevention through upstream strategies. This initiative centers on the Military Veteran Peer Network (MVPN), its relationships with local suicide prevention coalitions, and the combined effort to build community capacity. This presentation highlights a core element of this partnership \u2013 early identification capacity to identify veterans at risk of suicide, creating connections, and assisting veterans into community care. 2022 outcomes suggest these efforts contribute to increased identification abilities, preparedness, and confidence relating to Veteran suicide risk.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -151,7 +151,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-09T00:00:00",
     "Description of Activity": "Given that national surveys demonstrate college students continue to report high levels of suicide ideation and suicide attempts there is clear need for colleges and universities to develop innovative approaches to suicide prevention. The purpose of this session is to review relevant suicide prevention data for college campuses and present innovative and economical intervention strategies that have been deployed across three campuses (one large state school, one mid-size private school, and one small private school). More specifically, this session will highlight interventions that promote a sense of belonging, enhance resiliency skills, and create greater access to mental health care services.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -164,7 +164,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "The seminar will explore a range of subjects, covering the specific tools and tactics utilized by the CTNG BHT to address the distinct requirements of servicemen and women. Important areas of focus encompass an examination of their suicide prevention efforts, prompt intervention approaches, and vital post-intervention methods. The CTNG BHT will demonstrate their peer-to-peer support frameworks, which leverage the connectedness of fellow service members to provide valuable aid and direction.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -177,7 +177,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Preventing youth suicide and addressing the mental health needs of children and youth requires a robust and effective crisis continuum. This session highlights Connecticut\u2019s work building an effective system of care focused on prevention and early intervention. A statewide mobile crisis model provides rapid, in-person responses, which helps keep children in their homes, schools, and communities and diverted from restrictive and more intensive care options. Additionally, urgent crisis centers provide children and families another alternative to hospital emergency departments. We will share insights on the collaborations that helped build the current system, challenges that were faced, and future directions.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -190,7 +190,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Representatives from the Veterans Crisis Line (VCL) will provide an overview of what the VCL is, how they differ from the 988 Network, and how they are uniquely equipped to support Service Members, Veterans, and their Families (SMVF). The VCL was established in 2007 through the Joshua Omvig Veterans Suicide Prevention Act. Since then, the VCL has served over 7.2 million callers, 342,000 texters, and 885,000 chatters. Vibrant Emotional Health representatives will review the Veteran Amendment partnership between 988 centers, the VCL, and Vibrant. We will cover topics such as usage, relationship building with SMVF focused organizations, and lessons learned.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -281,7 +281,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "In the first year after leaving military service, the rate of veteran suicide is 2.5x higher compared to the active-duty population. During this time, veterans are experiencing change in all major areas of life: family, job, community, friendships, and life purpose. We will discuss why these changes can be so overwhelming from a neuroscience perspective (e.g. resistance to change), the impact of substance use and access to lethal means, and discuss the various programs and places in the community that can provide support.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -294,7 +294,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "Provisional 2022 data show suicide deaths continue to rise (49,498 vs 48,183 in 2021; a 2.7% increase). This session will highlight data on suicide and an overview on CDC\u2019s effort to implement a comprehensive suicide prevention program (CSP) which includes funding to the Colorado Department of Public Health and Environment. Despite a 27% statewide increase in suicide rates from 2019-2021, the Colorado CSP program observed only a 1.4% increase in suicide rates among the 6-county CSP coverage area and the lowest number of veteran suicides in 2022 (n=198). These examples can inform public health action to prevent suicide.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -307,7 +307,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-05T00:00:00",
     "Description of Activity": "Richard Egan, Suicide Prevention Training and Outreach Facilitator - State of Nevada, Office of Suicide Prevention  LivingWorks safeTALK is a four-hour training that equips people to be more alert to someone thinking of suicide and better able to connect them with further help. Using a simple yet effective model, LivingWorks safeTALK empowers everyone to make a difference. With over 120,000 people attending each year, it\u2019s the world\u2019s fastest-growing suicide prevention skills training course.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "4",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -320,7 +320,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "In this conference presentation, attendees will learn about the MAD HOPE Youth Suicide Prevention and Mental Well-Being program (located in Bellingham, Washington). This session will cover the training curriculum, suicidology and prevention best practices that inform its creation, our Train the Trainer and volunteer support models, and creating and maintaining our community partnerships with area schools. Attendees will also be presented with our data, including feedback from student and teacher evaluations. This presentation will give inspiration and practical information, ideas, and strategies to create similar youth suicide prevention training programs in their communities.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -333,7 +333,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-09T00:00:00",
     "Description of Activity": "Virtual behavioral health care models can expand access to services in communities that do not have enough resources to meet the need. Learn how one multi-state health system\u2019s centralized, virtual behavioral health team partnered with their Zero Suicide implementation committee to redesign suicide care pathways in emergency department and primary care settings to fill the gaps in care and improve clinical quality.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -346,7 +346,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Male suicide is literally killing us. Eighty percent of suicide decedents in the United of America are men but you would never know this from our suicide prevention messaging or high priority populations. How did the field of suicide prevention miss the largest population of suicide victims in our suicide prevention efforts? What are the evolutionary and cultural factors driving male suicide? This presentation will address these vital questions and also explore potential solutions to our male suicide problem. We are losing uncles, nephews, brothers, fathers, and sons to suicide at an alarming rate. It is time to fix that.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -359,7 +359,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "The focus of the workshop is to share the findings from a survey of mental health providers who attended a drop in bereavement group for providers, and will discuss the interventions that were used. Recommendations will be made to clinical supervisors and organizations that experience client loss on how to reduce stigma. Experiential learning will be used to practice grief interventions.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -372,7 +372,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-09T00:00:00",
     "Description of Activity": "Officers cannot just \u201cturn it off\u201d when they arrive home to their family. What happens on the job can spill over at home and negatively impact home life. Home life can spill over and negatively impact an officer at work, becoming a safety issue at work and on the officer\u2019s mental health. In this session, learn the five elements that every law enforcement couple needs to know to counter the impact of the spillover that impacts a couple\u2019s communication, connection, and intimacy, essential elements of a relationship based upon research.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -385,7 +385,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "\u00a0In an effort to enhance crisis line services in British Columbia, in 2021 BC Mental Health and Substance Use services launched a provincial Crisis Line Enhancement Project (CLEP). Key goals of this initiative were to: (1) increase capacity to meet demand; (2) standardize the quality and consistency of crisis line services, and; (3) strengthen provincial accountability and governance. This session describes the application of the Dialogic Organizational Change model, which leverages the diverse perspectives of service providers, service users and other key partners to enable the delivery of high-quality, accessible, appropriate, and consistent crisis line services across the province.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -398,7 +398,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Ohio is currently implementing suicide fatality review boards and psychological autopsies across the state. However, these initiatives are fairly new, and a state team is taking a unique approach to support and develop local suicide fatality review boards while integrating newly-trained psychological autopsy investigators to create a more robust death review system. Participants will receive an overview of suicide fatality review, psychological autopsy, and how these two initiatives differ (and are related). This can create an innovative system that can contribute to both streamlined suicide death data collection, but can also inform future suicide prevention efforts.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -411,7 +411,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Given the continued increase of suicide, development of the Postvention Intelligence Framework and Assessment (PIFA) provides a healthy way of educating professionals to talk about postvention and reduce the stigma of asking for help. Participants will discuss the Postvention Intelligence Framework and Assessment (PIFA) with the framework\u2019s creators and each other to understand their own PI score. The PIFA is used as a framework to increase awareness, foster stronger connections, and open pathways that influence positive outcomes at the self, team, and organizational levels. Freedom from stigma and freedom from psychological pain post suicide are important freedoms for all people.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -424,7 +424,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-09T00:00:00",
     "Description of Activity": "Many colleges have suicide prevention programs. Often these are initially grant funded, are situated with existing offices, and have limited programming. By creating a stand-alone program, supported and funded by multiple partners and with more than 250 faculty, staff, and student volunteers, these presenters have sustained a comprehensive campus suicide prevention program for 18 years. Participants with learn practical strategies for developing a partnership-based comprehensive program on their campus, with emphasis on sustainability.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -437,7 +437,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "\u00a0Suicide pathway (decision tree) strategies focus primarily on screening for suicide ideation for client identification. These have significant limitations because research suggests most clients who die by suicide in behavioral healthcare do not overtly express suicide ideation when inquired. Centerstone's Zero Suicide initiative has been focusing on widening the net of screening to identify covert ideation and risk factors for future ideation in addition to related risk areas (i.e., violence potential) to capture more clients in interventions to prevent suicide. We will discuss these development initiatives and include pilot test results and new pathway descriptions and interventions.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -450,7 +450,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "\u00a0Explore the vital role of military service screening in preventing veteran suicide in this insightful presentation. Uncover the alarming disparity in veteran suicide rates and the systemic gaps in healthcare provider readiness. Learn from the success of Virginia's VISR program and Policy Research Associates, Inc.'s strategic implementation support, gaining a deeper understanding of effective interventions. This session delivers a comprehensive overview of the screening challenges and solutions in veteran healthcare, highlighting the necessity and impact of integrating military service screening into healthcare practices.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -463,7 +463,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Promoting Community Conversations Around Research to End Suicide (PC CARES) is a community-learning model that gives scientific information to community members that offer tools and ideas about how best to prevent suicide and promote wellness. We do this with what we call learning circles. People who attend PC CARES learn, discuss, and make plans to prevent suicide and promote wellness in their community. By bringing bite sized pieces of research directly to communities and giving them an opportunity to decide how to use the research information, PCCARES creates sustainable, positive change.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -476,7 +476,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-06T00:00:00",
     "Description of Activity": "Shayna Klassen, BA - National Training Director, QPR Institute Becoming a certified trainer of QPR\u2019s industry-leading approach to suicide prevention is an excellent way for individuals and organizations to help empower their communities to effectively intervene on behalf of suicidal and in-crisis people. Gatekeeper Training Certification 3-year Certification",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "8",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -489,7 +489,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-06T00:00:00",
     "Description of Activity": "Samantha Nadler, MSSW - American Association of Suicidology Our Gatekeeper course is taught in a clear, concise format using the latest in educational technology and practices. The course takes approximately one hour to complete. Training participants to teach QPR Gatekeeper Training for Suicide Prevention, Understanding the nature and range of suicidal communications, Knowing the groups at greatest risk of suicide and why QPR can work for them Suicide and suicide prevention in history Gatekeeper training; how, why and the research; New and promising approaches to suicide prevention; How QPR fits into national efforts; KEY COMPONENTS COVERED IN TRAINING: How to Question, Persuade and Refer someone who may be suicidal; How to get help for yourself or learn more about preventing suicide; The common causes of suicidal behavior; The warning signs of suicide; How to get help for someone in crisis",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "2.5",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -502,7 +502,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-09T00:00:00",
     "Description of Activity": "Following the Joint Commission\u2019s 2019 mandate to expand suicide screening, rapidly developing suicide prevention interventions for newly identified high acuity patients became a priority for pediatric hospitals. This session will focus upon learning from one Midwestern hospital\u2019s implementation of two evidence-based suicide prevention interventions within a nine month period in a pediatric bridge mental health clinic. Discussion will focus upon projected days of life save and additional revenue generated as a result of this combined initiative. Lessons learned and sample clinical workflows will be discussed to aid other systems in launching their own initiatives.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -515,7 +515,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "New Jersey\u2019s Garrett Lee Smith Grant (GLS): Readiness to Stand United Against Youth Suicide is New Jersey's Public Health Statewide Initiative and collaboration of State Departments, community-based and professional organizations, and persons with lived experience across multiple sectors. The key to New Jersey\u2019s early and continuous success with GLS has been achieved through partnership, collaboration, and continuous quality improvement. This presentation will help provide an informational foundation to guide other states and organizations seeking to provide effective and sustainable suicide prevention and intervention services to youth based in collaborations and partnerships.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -528,7 +528,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "This symposium presents recent advances in research on the Interpersonal Theory of Suicide (ITS). Three presenters will provide an overview of their recent research and facilitate discussion of research findings with respect to advancing theory, research, and clinical services for individuals experiencing suicide-related thoughts and behaviors. Presentations include an examination of role of hopelessness in the ITS and predictive validity of the ITS in a sample of military personnel, an examination of the ITS in the context of social determinants of health, and an examination of the role of contribution to others as contributing factor in perceived burdensomeness. This symposium aims to provide attendees with cutting edge findings that can inform both clinical and research efforts",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -541,7 +541,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-09T00:00:00",
     "Description of Activity": "Suicide is the leading cause of death in jails. This high-energy and interactive session focuses on (8) key issues related to correctional suicide that must be addressed to truly reduce the number of incarcerated individuals who kill themselves. Attendees will learn about complexities and challenges specific to suicide prevention in jail settings, as well as how minor modifications to a jail\u2019s suicide prevention program can potentially reduce residents\u2019 unbearable distress and desire to escape it. Practical presentation by a jail suicide expert with case examples, audience participation, and lessons learned from individuals with lived experience, as well as suicide-related research.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -554,7 +554,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-07T00:00:00",
     "Description of Activity": "Continuing to identify suicide risk during telehealth visits is critical, as the demand for telehealth services persists. Screening for suicide risk during healthcare visits continues to grow as a standard care practice. While there are a variety of available and validated screening tools available for use, clinicians may be less comfortable screening for suicide risk during telehealth visits compared to in-person visits. This session focuses on thoughtful approaches to screening for suicide risk in telehealth, managing suicide risk collaboratively, and proactively involving family and supportive others in care and telehealth sessions. Resources, tools, and best practice guidance will be highlighted.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -567,7 +567,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "Health insurance\u2019s evolution in mental health care, emphasizing suicide prevention, has shifted towards proactive strategies. This presentation explores a Southern US health plan\u2019s transformative journey implementing Caring Contacts, an evidence-based approach. Addressing the 11th leading cause of US adult deaths, the program showcases promising outcomes, emphasizing early intervention, tailored support, and a proactive approach to mental health care.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -580,7 +580,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-08T00:00:00",
     "Description of Activity": "The Student Advocacy Specialist (SAS) role in the Forsyth County School system aims to provide support for students through mentorship, psychoeducation, and safety planning. The SAS role supports all students but more specifically, they support students with current suicidal ideation, homicidal ideation, and self-harming behaviors as well as students with histories of these thoughts and behaviors.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   },
@@ -593,7 +593,7 @@ const courses = [
     "Sponsor Type": "Professional Org",
     "CPE Date": "2024-05-09T00:00:00",
     "Description of Activity": "\u00a0Suicide Prevention and 988 in Georgia among rural populations and farmers has become extremely important since COVID 19. Learn about the data and research related to this population, the current initiatives for this demographic in Georgia, and how to create and distrbute effective messaging among this demographic.",
-    "Link": "Full Schedule",
+    "Link": "https://aas24.eventscribe.net/agenda.asp?startdate=5/5/2024&enddate=5/5/2024&BCFO=&pfp=Browse%20by%20Day&fa=&fb=&fc=&fd=",
     "Hours": "1",
     "DoDI Criteria Topics": "Prevention of Harmful Behaviors"
   }
