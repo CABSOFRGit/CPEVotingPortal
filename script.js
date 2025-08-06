@@ -10,10 +10,19 @@ function sanitizeInput(str) {
   });
 }
 
+
 function showCourseDetails(course) {
+  const firstName = document.getElementById("firstName").value.trim();
+  const lastName = document.getElementById("lastName").value.trim();
+
+  if (!firstName || !lastName) {
+    alert("Please enter both your first and last name before selecting a course.");
+    return;
+  }
+
   document.getElementById("screen1").style.display = "none";
   document.getElementById("screen2").style.display = "block";
-  const fullName = sanitizeInput(document.getElementById("firstName").value + " " + document.getElementById("lastName").value);
+  const fullName = sanitizeInput(firstName + " " + lastName);
   document.getElementById("userNameDisplay").textContent = fullName;
 
   document.getElementById("courseDetails").innerHTML = `
@@ -28,6 +37,7 @@ Topics: ${sanitizeInput(course["DoDI Criteria Topics"])}
   `;
   window.currentCourse = course;
 }
+
 
 function submitVote() {
   const firstName = sanitizeInput(document.getElementById("firstName").value);
@@ -71,7 +81,7 @@ window.onload = function() {
   const container = document.getElementById("courseList");
   courses.forEach(course => {
     const btn = document.createElement("button");
-    btn.textContent = course["CPE Title"];
+    btn.textContent = course["COURSE CODE"];
     btn.onclick = () => showCourseDetails(course);
     container.appendChild(btn);
   });

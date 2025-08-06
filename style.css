@@ -1,18 +1,21 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
+#courseList {
+  display: flex;
+  flex-wrap: wrap;         /* allows wrapping to next line */
+  gap: 12px;               /* space between buttons */
+  margin-top: 1em;
 }
-.screen {
-  margin-top: 20px;
+
+#courseList button {
+  padding: 12px 18px;
+  font-size: 1.1em;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  flex-shrink: 0;          /* prevents buttons from shrinking */
 }
-button {
-  margin-top: 10px;
-}
-#courseDetails {
-  white-space: pre-wrap;
-  max-height: 400px;
-  overflow-y: auto;
-  padding: 10px;
-  border: 1px solid #ccc;
-  background-color: #f9f9f9;
+
+#courseList button:hover {
+  background-color: #0059b3;
 }
