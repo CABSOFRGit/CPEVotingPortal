@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>CPE Voting Portal</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="courses.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Course Voting Portal</h1>
+  <div id="screen1" class="screen">
+    <label>First Name: <input type="text" id="firstName" /></label><br />
+    <label>Last Name: <input type="text" id="lastName" /></label><br />
+    <h4>Select a Course:</h4>
+    <div id="courseList"></div>
+  </div>
+  <div id="screen2" class="screen" style="display: none;">
+    <h3>Course Details</h3>
+    <p><strong>Name:</strong> <span id="userNameDisplay"></span></p>
+    <pre id="courseDetails"></pre>
+    <h4>Vote:</h4>
+    <label>Vote: <select id="voteSelect">
+      <option value="">Select</option>
+      <option value="Referred">Referred</option>
+      <option value="Non-Referred">Non-Referred</option>
+      <option value="Need More Information">Need More Information</option>
+    </select></label><br />
+    <label>Comments:<br /><textarea id="comments" rows="4"></textarea></label><br />
+    <button onclick="submitVote()">Submit Vote</button>
+  </div>
+  <div id="screen3" class="screen" style="display: none;">
+    <h3>Thank You!</h3>
+    <p>Your vote has been recorded.</p>
+    <button onclick="location.reload()">Close</button>
+  </div>
+</body>
+</html>

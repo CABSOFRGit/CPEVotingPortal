@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; padding: 1em; }
+.screen { display: none; }
+.screen.active, #screen1 { display: block; }
+button { margin-top: 1em; padding: 0.5em 1em; }
